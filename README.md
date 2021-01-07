@@ -1,2 +1,2 @@
-# Algoritimo-1
- exercicios da matéria algoritmo 1
+# Algoritimos-1
+ exercicios da matéria algoritmos 1
